@@ -518,19 +518,8 @@ img.post-image {
     border-right: 6px solid #e84e89;
     padding-left: 10px;
 }
-
-/*.article {
-    border: 1px solid;
-    border-radius: 32px;
-    display: inline-block;
-    width: 32%;
-    margin-left: 6px;
-    margin-right: 7px;
-    margin-bottom: -10px;
-    box-sizing: border-box;
-    padding: 0px;
-    background-color: #81a6a7;
+.gallery a, .galleryfigcaption {
     color: #fff;
-    position: relative;
-    background: linear-gradient(#683781, #4dcabe);
-}*/
+    font-weight: 800;
+    text-decoration: none;
+}
